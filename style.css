@@ -1,0 +1,57 @@
+h1
+{
+    font-family: 'Train One', cursive;
+    color: black;
+    word-wrap: break-word;
+     -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+     -ms-hyphens: auto;
+     -o-hyphens: auto;
+     hyphens: auto;
+}
+
+h2
+{
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    word-wrap: break-word;
+     -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+     -ms-hyphens: auto;
+     -o-hyphens: auto;
+     hyphens: auto;
+}
+
+h3
+{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    word-wrap: break-word;
+     -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+     -ms-hyphens: auto;
+     -o-hyphens: auto;
+     hyphens: auto;
+}
+
+a
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+img
+{
+    height: 300px;
+    width: 300px;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 100;
+    border-color: black;
+    padding: 20px;
+}
+
+#link_article
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
